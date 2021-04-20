@@ -20,7 +20,7 @@ class GuessTheNumber {
                 }
             }
             System.out.println("Вы " +
-                    ((guess == number)? "угадали!" : "проиграли: " + number));
+                    ((guess == number)? "угадали!" : "проиграли: " + number));//comment
 
 
 
